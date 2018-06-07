@@ -6,4 +6,4 @@ To get a look at what it looks like so far download the Repo, You will need to d
 Once you get to that step, Open it up by creating a new site on the top left corner of the the FileZilla app. You Will need to locate the repo on your computer through the window. Once you locate and open it you should be good to go! 
 
 
-Will add additional files by the end of June
+Will add additional files by the end of June!!
